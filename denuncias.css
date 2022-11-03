@@ -1,0 +1,191 @@
+html, body {
+	margin: 0;
+	padding:  0;
+	width: 100%;
+	height: 100%;
+	font-size: 100%;
+	/*background-color: #dddddd;*/
+	background-image: url("img1.jpg");
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+}
+
+.conteudo {
+	margin-right: 20%;
+	margin-left: 20%;
+	background-color: #ffffff;
+	padding-bottom: 50px;
+}
+
+.titulo {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-size: 50;
+	font-family: Arial;
+	font-weight: bold;
+	text-align: center;
+	color: #ffffff;
+	background-image: url("fundo1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.mapa {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 50px;
+}
+
+.caixa {
+	padding: 5px;
+	background-color: #aaeeff;
+}
+
+.video {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 50px;
+}
+
+.texto {
+	/*width: 100%;*/
+	margin-right: 10%;
+	margin-left: 10%;
+	/*display: flex;*/
+	/*flex-direction: row;*/
+	/*justify-content: center;*/
+	/*align-items: center;*/
+	margin-bottom: 50px;
+	background-color: #ffffee;
+	padding: 5px;
+}
+
+.paragrafo {
+	font-family: Times New Roman, Trebuchet MS, Tahoma, Palatino, Helvetica, Georgia, Garamond, Comic Sans, Verdana, Arial;
+	font-size: 25px;
+	text-align: justify;
+	text-indent: 1.5em;
+	/*background-color: #ff00ff;*/
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.link {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 50px;
+	background-color: #ffffff;
+}
+
+.menu {
+	height: 50px;
+	/*border: solid;*/
+	display: flex;
+  	justify-content: center;
+	background-color: #00aacc;
+	margin-bottom: 50px;
+	border-bottom: solid;
+	border-top: solid;
+}
+
+.HOME{
+	font-size: 25px;
+	font-family: Consolas;
+	font-weight: bold;
+	/*border: solid;*/
+	display: inline-block;
+	/*background-color: #ffff00;*/
+	padding-left: 10px;
+	padding-right: 10px;
+	border-left: solid;
+}
+
+.NASA_SPACE_APPS {
+	font-size: 25px;
+	font-family: Consolas;
+	font-weight: bold;
+	/*border: solid;*/
+	display: inline-block;
+	/*background-color: #00ff00;*/
+	padding-left: 10px;
+	padding-right: 10px;
+	border-left: solid;
+}
+
+.DENUNCIAS {
+	font-size: 25px;
+	font-family: Consolas;
+	font-weight: bold;
+	/*border: solid;*/
+	display: inline-block;
+	/*background-color: #0000ff;*/
+	padding-left: 10px;
+	padding-right: 10px;
+	border-left: solid;
+}
+
+.QUEM_SOMOS_NOS {
+	font-size: 25px;
+	font-family: Consolas;
+	font-weight: bold;
+	/*border: solid;*/
+	display: inline-block;
+	/*background-color: #0000ff;*/
+	padding-left: 10px;
+	padding-right: 10px;
+	border-right: solid;
+	border-left: solid;
+}
+
+.texto_titulo {
+	color: white;
+	text-decoration: none;
+	line-height: 50px;
+}
+
+.HOME:hover {
+	background-color: #008899;
+}
+
+.NASA_SPACE_APPS:hover {
+	background-color: #008899;
+}
+
+.DENUNCIAS:hover {
+	background-color: #008899;
+}
+
+.QUEM_SOMOS_NOS:hover {
+	background-color: #008899;
+}
+
+.comentarios {
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+
+.imagem {
+	height: 400px;
+	border: solid;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-size: contain;
+	background-image: url("logo.jpeg");
+	margin-bottom: 50px;
+	overflow: hidden;
+}
+
+img{
+	width: 100%;
+	height: 100%;
+}
