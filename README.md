@@ -1,4 +1,4 @@
-# injustice-things
+# Injustice Things
 A background website developed for the NASA Space Apps Challenge 2021 Hackathon. This project was developed as a team, and it owes its success to the team formed by incredible people (<b>Alexia Paes</b>, <b>Luísa Lôbo</b>, <b>Stéfany Coimbra</b>, <b>Bruno Said</b>). I also thank the organization.
 
 https://user-images.githubusercontent.com/86388642/199799764-13605e4d-1b3d-4fdc-a1cd-4674c615b67a.mov
